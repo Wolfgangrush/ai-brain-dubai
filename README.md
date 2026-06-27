@@ -1,3 +1,16 @@
+<div align="center">
+  <img src="docs/banner.png" width="820"/>
+  <p><strong>Practice brain for Dubai attorneys — local-first, MIT.</strong></p>
+  <p>Visit the live site: <a href="https://wolfgangrush.github.io">wolfgangrush.github.io</a></p>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License"/>
+  <img src="https://img.shields.io/badge/domain-legal-purple" alt="Legal Domain"/>
+  <img src="https://img.shields.io/badge/architecture-local--first-green" alt="Local First"/>
+</div>
+
+
 # 🇦🇪 AI Brain for Dubai Lawyers
 
 > **Free dual-system practice OS for every Dubai solo lawyer. DIFC offshore (common-law, English) + Dubai Mainland (civil-law, Arabic) — in one terminal-native tool. Local-first by default (Ollama + Qwen3 — nothing leaves your laptop). Cloud-LLM optional with the [Pseudonymisation Gateway](https://github.com/Wolfgangrush/pseudonymisation-gateway) sanitising PII before any prompt leaves the machine; UAE PDPL Article 22 + DIFC-DPL Article 26 cross-border-transfer obligations remain YOUR responsibility for any cloud-mode use.**
